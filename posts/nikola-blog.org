@@ -1,6 +1,6 @@
 #+BEGIN_COMMENT
 .. title: nikola搭建blog
-.. slug: 
+.. slug: nikola-blog
 .. date: 2017-11-15 20:08:28 UTC+08:00
 .. tags: emacs, nikola, blog, org-mode
 .. category: tools
