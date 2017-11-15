@@ -19,7 +19,15 @@
  </url>
  <url>
   <loc>https://semutter.github.io/categories/</loc>
-  <lastmod>2017-11-15T12:43:00Z</lastmod>
+  <lastmod>2017-11-15T13:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://semutter.github.io/categories/blog/</loc>
+  <lastmod>2017-11-15T13:10:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://semutter.github.io/categories/cat_tools/</loc>
+  <lastmod>2017-11-15T13:10:00Z</lastmod>
  </url>
  <url>
   <loc>https://semutter.github.io/categories/cat_trial/</loc>
@@ -34,6 +42,10 @@
   <lastmod>2017-11-15T12:43:00Z</lastmod>
  </url>
  <url>
+  <loc>https://semutter.github.io/categories/org-mode/</loc>
+  <lastmod>2017-11-15T13:10:00Z</lastmod>
+ </url>
+ <url>
   <loc>https://semutter.github.io/galleries/</loc>
   <lastmod>2017-11-15T12:43:00Z</lastmod>
  </url>
@@ -44,5 +56,9 @@
  <url>
   <loc>https://semutter.github.io/posts/ce-shi/</loc>
   <lastmod>2017-11-15T12:43:00Z</lastmod>
+ </url>
+ <url>
+  <loc>https://semutter.github.io/posts/nikola-blog/</loc>
+  <lastmod>2017-11-15T13:10:00Z</lastmod>
  </url>
 </urlset>
