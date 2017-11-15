@@ -1380,3 +1380,6 @@ PAGES = PAGES + (("stories/*.org", "stories", "story.tmpl"),)
 # github config
 GITHUB_SOURCE_BRANCH = 'source'
 GITHUB_DEPLOY_BRANCH = 'master'
+
+# theme config
+THEME = "hyde"
