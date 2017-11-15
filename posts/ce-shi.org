@@ -1,0 +1,13 @@
+#+BEGIN_COMMENT
+.. title: 测试
+.. slug: ce-shi
+.. date: 2017-11-15 20:08:28 UTC+08:00
+.. tags: emacs, nikola
+.. category: trial
+.. link: 
+.. description: 测试nikola
+.. type: text
+#+END_COMMENT
+
+* 测试nikola编写blog 
+正文
