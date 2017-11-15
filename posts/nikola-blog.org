@@ -79,3 +79,7 @@
    #+BEGIN_SRC bash
      nikola clean
    #+END_SRC
+   post改名时，清空之前生成的静态页面内容，不然会有部分内容会出粗
+   #+BEGIN_SRC bash
+     rm -rf output cache
+   #+END_SRC
