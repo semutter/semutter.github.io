@@ -10,7 +10,7 @@
 #+END_COMMENT
 
 * 启动设置
-   参考[[https://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/][网友博客]]进行搭建
+   参考[[https://streakycobra.github.io/posts/blogging-in-org-mode-with-nikola/][网友博客]]进行搭建，必要时可以到[[https://getnikola.com/][nikola官网]]上进行查询，看内容比较详尽
 ** github.io的设置
    自行创建对应github账号的username.github.io的仓库，并拉至本地
 ** nikola安装
@@ -33,6 +33,7 @@
    #+BEGIN_SRC python
      # Add the orgmode compiler to your COMPILERS dict.
      COMPILERS["orgmode"] = ('.org',)
+
 
      # Add org files to your POSTS, PAGES
      POSTS = POSTS + (("posts/*.org", "posts", "post.tmpl"),)
@@ -72,4 +73,9 @@
 ** 部署到github
    #+BEGIN_SRC bash
      nikola github_deploy
+   #+END_SRC
+** 更改内容出错时
+   更改内容，如post文件名时，或者主题的配置时，可能显示会有问题，执行下述clean命令
+   #+BEGIN_SRC bash
+     nikola clean
    #+END_SRC
