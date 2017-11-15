@@ -1,0 +1,4 @@
+Sitemap: https://semutter.github.io/sitemapindex.xml
+
+User-Agent: *
+Host: semutter.github.io
